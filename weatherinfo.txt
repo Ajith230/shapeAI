@@ -1,0 +1,8 @@
+
+ Current Timestamp : 21-Jun-2021 (22:22:10)
+ City Name : Angamaly
+ Current   Temparture : 26.89°C
+ Real feal Temparture : 29.77°C
+ Weather Description  : haze
+ Humiidty   : 83
+ Wind Speed : 1.54 Kmph
